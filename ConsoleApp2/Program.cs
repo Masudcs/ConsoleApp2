@@ -11,7 +11,9 @@ namespace ConsoleApp2
         static void Main(string[] args)
         {
             Console.WriteLine("Test of gitgub");
+            Console.WriteLine("Improved now it is easy to push gitgub");
             Console.ReadKey();
+
         }
     }
 }
