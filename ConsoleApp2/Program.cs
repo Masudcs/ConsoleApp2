@@ -10,6 +10,8 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Test of gitgub");
+            Console.ReadKey();
         }
     }
 }
